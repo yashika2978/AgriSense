@@ -1,2 +1,2 @@
 # AgriSense
-AI-powered crop health surveillance combining computer vision, weather intelligence, satellite monitoring, and multilingual AI-driven agricultural advisory.
+AgriSense is an AI-powered multimodal crop health surveillance and predictive advisory platform designed to help farmers detect crop diseases and pest infestations at an early stage. It integrates YOLOv8-Nano, MobileNetV3, weather intelligence, satellite-based NDVI monitoring, and Gemini-powered AI advisory to deliver contextual disease insights, risk assessment, and actionable 7-day Integrated Pest Management (IPM) recommendations. Supporting multilingual voice interaction and agricultural officer validation, AgriSense aims to make precision agriculture more accessible, intelligent, and scalable.
